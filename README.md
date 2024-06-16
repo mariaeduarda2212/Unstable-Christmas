@@ -38,18 +38,14 @@ Unstable Christmas is a top down isometric puzzle game,
 - Use as setas do teclado para caminhar pelo gelo
 - Tenha cuidado com as bombas, se você pisar em um gelo que tenha, o jogo terminará
 - Para passar de nível, encontre uma maneira de obter o presente escondido
-<br>
+
 Este jogo é uma mistura de campo minado e jogo de memória :)
-<br>
+
 - Use the arrow keys to walk through the ice
 - Be Careful with the bombs, if you step into a ice that has it will be game over
 - To pass the level find a way to get the hidden gift
-<br>
+
 This game is a mix of a minefield and memory game :)
-
-## Tecnologias Utilizadas
-
-- Feito apenas com Html, Css e JavaScript
 
 ## Atenção | Attention!
 
@@ -62,7 +58,7 @@ Este jogo tem bugs que precisamos corrigir:
 - A tela de pontuação está incompleta, então apenas adicionamos uma imagem estática quando o tempo acaba no final do jam.
 
 Obs: o primeiro nível que fizemos era para ser um tutorial simples, pois mais níveis apareceriam nas próximas telas, mas não conseguimos fazer isso a tempo.
-<br>
+
 This game have bugs that we need to fix:
 
 - Fix the ice breaking effect/animation before the game over and after the player step into a ice that has a bomb.
@@ -75,6 +71,7 @@ Obs: the first level that we did, was suppose to be an simple tutorial, than mor
 
 
 Obrigado pela atenção e boa diversão :)
+<br>
 Thanks for you attention and have a good play time :)
 
 Assinado,
