@@ -31,7 +31,7 @@ Natal instável é um jogo de quebra-cabeça isométrico de cima para baixo,
 Unstable Christmas is a top down isometric puzzle game,
 
 
-![Demo](./download.gif)
+![Demo](./demo.gif)
 
 ## Como Jogar? | How to play?
 
