@@ -76,4 +76,4 @@ Thanks for you attention and have a good play time :)
 
 Assinado,
 
-<img src="IMG_0092.PNG" width="200" height="200"/>
+<img src="IMG_0092.png" width="200" height="200"/>
